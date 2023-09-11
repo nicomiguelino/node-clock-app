@@ -1,0 +1,11 @@
+{
+  "name": "clock-app",
+  "version": "1.0.0",
+  "description": "Building a simple clock app using Node and a build system, cause why not?",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
