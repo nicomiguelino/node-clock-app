@@ -4,10 +4,4 @@ description: ''
 icon: ''
 author: ''
 homepage_url: ''
-settings:
-  greeting:
-    type: string
-    default_value: stranger
-    title: greeting
-    optional: true
-    help_text: An example of a setting that is used in index.html
+settings: {}
