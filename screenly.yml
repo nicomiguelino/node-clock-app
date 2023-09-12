@@ -1,0 +1,14 @@
+---
+app_id: 01HA2TEC8CHXZCVGH0T70MDDA0
+user_version: ''
+description: ''
+icon: ''
+author: ''
+homepage_url: ''
+settings:
+  greeting:
+    type: string
+    default_value: stranger
+    title: greeting
+    optional: true
+    help_text: An example of a setting that is used in index.html
